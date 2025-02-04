@@ -8,11 +8,7 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://lnnkin.co/@x" ><img src="https://img.shields.io/twitter/follow/peniedd.svg?style=social" /> </a>
-<br>
-
-
-[![](https://img.shields.io/badge/-@peniedd-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/peniedd)
-[![](https://img.shields.io/badge/-@Henry-Edet-%23181717?style=flat-square&logo=github)](https://github.com/Henry-Edet)
+<br></div>
 
 
 - 👋 Hi, I’m @Henry-Edet, I'm a software Engineer.
@@ -57,11 +53,25 @@
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
+###    BACK-END DEV
+
+[![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+
+###    DATABASES
+
+[![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+
 ##  CERTIFICATIONS
 
     AWS Certified Solutions Architect Associate
 
-    
+##    Stats
+
+![Henry Edet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henry-Edet&show_icons=true&theme=tokyonight)
+
 
 <!---
 Henry-Edet/Henry-Edet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
