@@ -55,13 +55,20 @@
 
 ###    BACK-END DEV
 
-[![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ###    DATABASES
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+[![Portfolio](https://svg.bookmark.style/api?url=https://your-portfolio-url.com&mode=light&style=horizontal)](https://github.com/Henry-Edet/my-portfolio.git)
+[![Sign-to-Text AI](https://svg.bookmark.style/api?url=https://github.com/your-github-repo&mode=light&style=horizontal)](https://github.com/Henry-Edet/sign-to-text-speech-AI-model.git)
+
 
 
 ##  CERTIFICATIONS
