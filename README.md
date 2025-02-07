@@ -75,6 +75,8 @@
 
     AWS Certified Solutions Architect Associate
 
+    Automate everything with Python
+
 ##    Stats
 
 ![Henry Edet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henry-Edet&show_icons=true&theme=tokyonight)
