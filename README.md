@@ -75,7 +75,9 @@
 
     AWS Certified Solutions Architect Associate
 
-    Automate everything with Python
+    Automate the boring things with Python
+
+    python hands on
 
 ##    Stats
 
