@@ -66,8 +66,7 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Portfolio](https://svg.bookmark.style/api?url=https://your-portfolio-url.com&mode=light&style=horizontal)](https://github.com/Henry-Edet/my-portfolio.git)
-[![Sign-to-Text AI](https://svg.bookmark.style/api?url=https://github.com/your-github-repo&mode=light&style=horizontal)](https://github.com/Henry-Edet/sign-to-text-speech-AI-model.git)
+    In progress
 
 
 
