@@ -78,8 +78,6 @@
 
     python hands on
 
-##    Social media
-
 
 
 ##    Stats
