@@ -14,7 +14,7 @@
 - 👋 Hi, I’m Henry-Edet, I'm a software Engineer.
 - 👀 I’m interested in learning and exploring new things
 - 💞️ I’m looking to collaborate on AI related projects
-- 📫 How to reach me, send a mail to jtad007@gmail.com
+- 📫 How to reach me, send a mail to penieledet@icloud.com
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
