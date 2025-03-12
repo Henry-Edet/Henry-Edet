@@ -17,13 +17,13 @@
 - 📫 How to reach me, send a mail to penieledet@icloud.com
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸👨🏾‍💻👨🏾‍💻
 
 ###  DevOps
 
 [![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
-###  AI / ML
+###  AI / ML 🦾
 
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
