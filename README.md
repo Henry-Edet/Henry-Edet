@@ -1,4 +1,4 @@
-<h1 align="center">Hi! Welcome to my Profile™️</h1>
+<h1 align="center">Hi! Welcome™️</h1>
 
 <h1 align="center">Henry Edet's GitHub
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"></a></h1>
